@@ -1,5 +1,53 @@
 ![n8n.io - Workflow Automation](https://user-images.githubusercontent.com/65276001/173571060-9f2f6d7b-bac0-43b6-bdb2-001da9694058.png)
+# Introducing **FreeMe**: Your AI-Powered Workflow Automation Tool
 
+## Overview
+**FreeMe** is a **free and source-available workflow automation tool** designed to leverage the power of AI agents to complete all your tasks seamlessly. With a **fair-code license**, FreeMe aims to free you from the burden of repetitive and mundane work, letting you focus on what truly matters. Whether you're looking to automate tasks across different services, streamline your daily workflows, or build complex automation sequences, FreeMe is the all-in-one solution you've been waiting for.
+
+## Why FreeMe?
+- **AI Agent-Driven Automation**: The core of FreeMe revolves around AI agents capable of understanding and executing tasks autonomously. These agents can be tailored to your specific needs, learning from your interactions and evolving over time to handle increasingly complex tasks.
+- **Free & Open Source**: FreeMe is built on a source-available model, meaning you can inspect, customize, and extend its capabilities as needed, with a **fair-code license** that promotes ethical use.
+- **Cross-Service Workflow Management**: Automate workflows that span multiple services and tools, integrating seamlessly with a variety of APIs and systems to complete complex processes from start to finish.
+- **Ease of Use & Flexibility**: With an intuitive interface and a flexible task orchestration engine, FreeMe can be set up quickly to suit both beginners and advanced users alike. You can easily define task sequences and trigger conditions without any coding required.
+
+## How It Works
+### 1. **Define Your Workflow**
+Create workflows by defining a sequence of tasks that you want to automate. FreeMe's user-friendly interface allows you to drag and drop tasks, set triggers, and connect different services—all without needing any coding expertise.
+
+### 2. **Empower Your AI Agents**
+Assign AI agents to your workflows. These agents are designed to understand the nature of each task and complete them intelligently. With the ability to learn and adapt, they can improve their performance based on feedback and past interactions.
+
+### 3. **Automate Across Services**
+Connect to different services and applications like email, databases, CRMs, project management tools, cloud services, and more. FreeMe makes it easy to integrate with APIs, so you can automate processes that require interaction with multiple platforms.
+
+### 4. **Monitor & Optimize**
+Track the performance of your AI agents and workflows in real time. FreeMe provides insightful analytics and logs so you can monitor workflow efficiency, identify bottlenecks, and optimize task sequences as needed.
+
+## Key Features
+- **AI Agent-Based Task Execution**: Replace manual work with AI agents that can handle complex tasks autonomously.
+- **Visual Workflow Designer**: Build, edit, and visualize your workflows with a simple drag-and-drop interface.
+- **Cross-Platform Integrations**: Connect with a wide variety of services and APIs to create powerful automated workflows.
+- **Customizable & Extensible**: Being source-available and open for extensions, you can modify FreeMe to suit your specific needs or add new features.
+- **Real-Time Monitoring & Logging**: Keep track of how your workflows are performing, with detailed logs and analytics to ensure optimal efficiency.
+
+## Use Cases
+- **Automated Email Management**: Automatically filter, categorize, and respond to your emails based on predefined rules, saving hours of your time.
+- **Data Processing & Transformation**: Extract, transform, and load data across different databases and services, with agents doing all the work.
+- **Project Management**: Automatically update project statuses, create task tickets, or notify team members based on project events.
+- **Customer Support Automation**: Handle support requests by routing, escalating, or providing automated responses based on the nature of the queries.
+  
+## Getting Started
+- **Installation & Setup**: Download the source code from the FreeMe repository, install the necessary dependencies, and you're ready to start building your workflows.
+- **Define Your First Workflow**: Use the visual designer to set up your first workflow, choose your triggers, and assign an AI agent to execute it.
+- **Customize & Optimize**: Tweak and enhance your workflows by connecting to more services and adding conditional logic to handle different scenarios.
+
+## Join the FreeMe Community
+Get involved in the community, share your workflows, and contribute to the FreeMe project. The source code is available for you to explore, extend, and enhance, making it the perfect tool for those who want to achieve maximum productivity and efficiency.
+
+---
+
+### Take Back Your Time
+With FreeMe, you can delegate all your tasks to AI agents and reclaim your time for more meaningful activities. Start automating your life today!
 # n8n - Workflow automation tool
 
 n8n is an extendable workflow automation tool. With a [fair-code](https://faircode.io) distribution model, n8n
